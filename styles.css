@@ -81,13 +81,13 @@ p {
 
 @media screen and (max-width:1310px) {
     p {
-        width: 80%;
+        width: 78%;
         height: 34%;
         padding: 0;
         margin: 0;
         position: relative;
         bottom: -32px;
-        left: -73px;
+        left: -65px;
     }
 
     img {
@@ -101,7 +101,7 @@ p {
 
 h1 {
     position: relative;
-    font-size: 51px;
+    font-size: 48px;
     left: -73px;
 
         
@@ -116,12 +116,16 @@ h1 {
 
     .button-header {
         position: absolute;
-        left: 321px;
+        left: 325px;
         width: 77px;
         height: 25px;
     }
+
     
-    @media screen and (max-width: 280px) {
+         
+    
+    
+    @media screen and (max-width: 390px) {
     header {
         display: none;
     }   
