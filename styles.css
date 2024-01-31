@@ -6,8 +6,9 @@
 }
 
 header {
-    margin-top: 47px;
-    margin-left: 42px;
+    margin-top: 23px;
+    margin-left: 711px;
+
 }
 
 .link-menu {
@@ -52,6 +53,10 @@ h1 {
     line-height: 82px;
     letter-spacing: 00.596154;
     color: #161a49;
+    position: relative;
+    left: 602;
+    top: -438;
+
 
 }
 
@@ -125,7 +130,7 @@ h1 {
          
     
     
-    @media screen and (max-width: 390px) {
+    @media screen and (max-width: 440px) {
     header {
         display: none;
     }   
